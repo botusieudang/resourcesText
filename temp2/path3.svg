@@ -1,0 +1,36 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 80">
+<g id="COMING" filter="url(#filter0_d_2050_338)">
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Roboto Condensed" font-size="240.9" font-weight="800" letter-spacing="0em"><tspan x="128.721" y="1519.84">COMING</tspan></text>
+</g>
+<g id="SOON" filter="url(#filter1_d_2050_338)">
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Roboto Condensed" font-size="390.638" font-weight="800" letter-spacing="0em"><tspan x="77.535" y="1767.18">SOON</tspan></text>
+</g>
+<g id="Frame 81">
+<rect width="248.002" height="85.5606" transform="translate(398.29 1612.44) rotate(-13.923)" fill="#A200FF"/>
+<text id="STAY TUNED" transform="translate(419.808 1625.84) rotate(-13.923)" fill="white" style="white-space: pre" xml:space="preserve" font-family="Roboto Condensed" font-size="41.8074" font-weight="bold" letter-spacing="0em"><tspan x="0.389259" y="38.7896">STAY TUNED</tspan></text>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_2050_338" x="127.907" y="1327.55" width="821.959" height="197.478" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-8.02131"/>
+<feGaussianBlur stdDeviation="5.34754"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2050_338"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2050_338" result="shape"/>
+</filter>
+<filter id="filter1_d_2050_338" x="80.3826" y="1467.41" width="909.862" height="306.739" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-8.02131"/>
+<feGaussianBlur stdDeviation="5.34754"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2050_338"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2050_338" result="shape"/>
+</filter>
+</defs>
+</svg>

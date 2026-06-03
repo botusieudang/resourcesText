@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1080 1920" width="540" height="960">
+<defs>
+<style>@font-face{font-family:'f5';src:url('fonts/5_Guerrilla.otf')}
+@font-face{font-family:'f8';src:url('fonts/8_ZingRust.otf')}
+@font-face{font-family:'f23';src:url('fonts/23_Nexa.otf')}
+@font-face{font-family:'f29';src:url('fonts/29_Raleway.ttf')}
+@font-face{font-family:'f31';src:url('fonts/31_Panton.otf')}
+@font-face{font-family:'f32';src:url('fonts/32_ZingScriptRust.otf')}
+@font-face{font-family:'f33';src:url('fonts/33_MarckScript.otf')}
+@font-face{font-family:'f37';src:url('fonts/37_BernierShade.otf')}
+@font-face{font-family:'f77';src:url('fonts/77_Arsenal.ttf')}
+@font-face{font-family:'f79';src:url('fonts/79_Comfortaa.ttf')}
+@font-face{font-family:'f80';src:url('fonts/80_Cormorant.ttf')}
+@font-face{font-family:'f83';src:url('fonts/83_Jura.otf')}
+@font-face{font-family:'f84';src:url('fonts/84_Gabriela.otf')}
+@font-face{font-family:'f85';src:url('fonts/85_Neu.otf')}
+@font-face{font-family:'f87';src:url('fonts/87_Oswald.ttf')}
+@font-face{font-family:'f90';src:url('fonts/90_Montserrat.ttf')}
+@font-face{font-family:'f99';src:url('fonts/99_Fire.otf')}
+@font-face{font-family:'f115';src:url('fonts/115_AlistairSignature.otf')}
+@font-face{font-family:'f118';src:url('fonts/118_Christofher.otf')}
+@font-face{font-family:'f119';src:url('fonts/119_Hamiltone.otf')}
+@font-face{font-family:'f122';src:url('fonts/122_Sverdlovsk.otf')}
+@font-face{font-family:'f124';src:url('fonts/124_Damask.otf')}
+@font-face{font-family:'f127';src:url('fonts/127_Anjhay.otf')}
+@font-face{font-family:'f128';src:url('fonts/128_Antarctic.otf')}
+@font-face{font-family:'f131';src:url('fonts/131_Atziluth_Script.otf')}
+@font-face{font-family:'f132';src:url('fonts/132_Autumn_Feel.otf')}
+@font-face{font-family:'f138';src:url('fonts/138_Betmo.otf')}
+@font-face{font-family:'f141';src:url('fonts/141_Bitter.ttf')}
+@font-face{font-family:'f154';src:url('fonts/154_New_York.otf')}
+@font-face{font-family:'f156';src:url('fonts/156_Inter.ttf')}
+@font-face{font-family:'f157';src:url('fonts/157_Georgia.otf')}
+@font-face{font-family:'f158';src:url('fonts/158_Montserrat.ttf')}
+@font-face{font-family:'f161';src:url('fonts/161_DIN.otf')}
+@font-face{font-family:'f163';src:url('fonts/163_Playfair.otf')}
+@font-face{font-family:'f167';src:url('fonts/167_Lora.ttf')}
+@font-face{font-family:'f173';src:url('fonts/173_HelloScript.otf')}
+@font-face{font-family:'f174';src:url('fonts/174_TheArtist.otf')}
+@font-face{font-family:'f175';src:url('fonts/175_Cormorant.ttf')}
+@font-face{font-family:'f177';src:url('fonts/177_Genplan.otf')}
+@font-face{font-family:'f178';src:url('fonts/178_Rondolux.otf')}
+@font-face{font-family:'f180';src:url('fonts/180_Neutral_Face.otf')}
+@font-face{font-family:'f184';src:url('fonts/184_Garden_Club.otf')}
+@font-face{font-family:'f185';src:url('fonts/185_Hamiltone.otf')}
+@font-face{font-family:'f186';src:url('fonts/186_Custodia_Deco.otf')}
+@font-face{font-family:'f190';src:url('fonts/190_Karakuli.otf')}
+@font-face{font-family:'f195';src:url('fonts/195_Maybug.otf')}
+@font-face{font-family:'f196';src:url('fonts/196_Dewi.otf')}
+@font-face{font-family:'f197';src:url('fonts/197_Display.otf')}
+@font-face{font-family:'f203';src:url('fonts/203_Bodoni.otf')}
+@font-face{font-family:'f204';src:url('fonts/204_Aesthetic.otf')}
+@font-face{font-family:'f205';src:url('fonts/205_Century.otf')}
+@font-face{font-family:'f210';src:url('fonts/210_Outline.otf')}
+@font-face{font-family:'f214';src:url('fonts/214_Hoefler.otf')}
+@font-face{font-family:'f224';src:url('fonts/224_Yeseva.otf')}
+@font-face{font-family:'f226';src:url('fonts/226_Sriracha.otf')}
+@font-face{font-family:'f229';src:url('fonts/229_Engry.otf')}
+@font-face{font-family:'f235';src:url('fonts/235_Dollie_Barbie.otf')}
+@font-face{font-family:'f243';src:url('fonts/243_R_Bold.ttf')}
+@font-face{font-family:'f248';src:url('fonts/248_Neucha.ttf')}
+@font-face{font-family:'f252';src:url('fonts/252_Noto.ttf')}
+@font-face{font-family:'f261';src:url('fonts/261_ZenAnti.ttf')}
+@font-face{font-family:'f270';src:url('fonts/270_Merriweather.ttf')}
+@font-face{font-family:'f271';src:url('fonts/271_Times.ttf')}
+@font-face{font-family:'f276';src:url('fonts/276_Great_Vibes.ttf')}
+@font-face{font-family:'f280';src:url('fonts/280_Relief.ttf')}</style>
+</defs>
+<image href="backgrounds/104.jpeg" x="0" y="0" width="1080" height="1920" preserveAspectRatio="xMidYMid slice"/>
+<g transform="matrix(1.0,0.0,0.0,1.0,183.614,848.337)" opacity="1.0">
+  <text x="385.0" y="141.1" text-anchor="middle" style="font-size:141.12332px;font-family:'f29';fill:#FFFFFF;fill-opacity:1.0">WORK DAY</text>
+</g>
+<g transform="matrix(0.942574,0.0,0.0,0.942574,498.464,1039.21)" opacity="1.0"><image href="stickers/2582.png" x="0" y="0" width="700.0" height="32.0" preserveAspectRatio="xMidYMid meet"/></g>
+</svg>

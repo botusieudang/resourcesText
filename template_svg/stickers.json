@@ -1,0 +1,1036 @@
+{
+  "summary": {
+    "total_stickers": 60,
+    "total_templates_with_stickers": 77
+  },
+  "stickers": [
+    {
+      "id": 933,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWNhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cc7b59c30330a3b2345f1bb204c7aec6e3f8d8fb/Fill%20302.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWNhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cc7b59c30330a3b2345f1bb204c7aec6e3f8d8fb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Fill%20302.png",
+      "blurhash": "LZQvwR%M4nxu%Mt7Rjt700RjRjRj",
+      "position": -79,
+      "created_at": "2021-11-11T14:58:53.375Z",
+      "updated_at": "2026-05-12T10:23:17.149Z",
+      "used_in_templates": [
+        "54"
+      ]
+    },
+    {
+      "id": 943,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8a4e2e8a9e4a9e714607232d9f4fa35d5070eeb5/Fill%20312-2.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8a4e2e8a9e4a9e714607232d9f4fa35d5070eeb5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Fill%20312-2.png",
+      "blurhash": "LZQmCrIU00M{xuRjRjRj00t7Rjt7",
+      "position": -181,
+      "created_at": "2021-11-11T14:58:53.500Z",
+      "updated_at": "2026-05-12T10:21:16.820Z",
+      "used_in_templates": [
+        "61"
+      ]
+    },
+    {
+      "id": 951,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamthIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--00654d8ff1e7660442d97748cfc2356d862e2ced/Fill%20316-2.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamthIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--00654d8ff1e7660442d97748cfc2356d862e2ced/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Fill%20316-2.png",
+      "blurhash": "LZQvwRIU4nM{%MRjRjRj00ofRjt7",
+      "position": -69,
+      "created_at": "2021-11-11T14:58:53.587Z",
+      "updated_at": "2026-05-23T10:26:07.345Z",
+      "used_in_templates": [
+        "54"
+      ]
+    },
+    {
+      "id": 2154,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDBWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68e74db82dc56bbfadc11c5c258f13a6eccfeed0/%E8%B6%B3%EF%BD%AE%EF%BD%A9%201.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDBWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68e74db82dc56bbfadc11c5c258f13a6eccfeed0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/%E8%B6%B3%EF%BD%AE%EF%BD%A9%201.png",
+      "blurhash": "LgI0_6WWAXS3snS3$PoK1wfQo1a|",
+      "position": -1010,
+      "created_at": "2022-02-11T20:42:25.937Z",
+      "updated_at": "2026-05-23T10:22:48.772Z",
+      "used_in_templates": [
+        "46"
+      ]
+    },
+    {
+      "id": 2212,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d93fd597c3d6252bb52923b403056fdfab82512d/%E8%B6%B3%EF%BD%AE%EF%BD%A9%2024.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d93fd597c3d6252bb52923b403056fdfab82512d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/%E8%B6%B3%EF%BD%AE%EF%BD%A9%2024.png",
+      "blurhash": "L36t].-;_3Rj?bD%IU4n%MIU00Rj",
+      "position": -1038,
+      "created_at": "2022-02-12T02:56:04.303Z",
+      "updated_at": "2026-04-29T18:41:37.630Z",
+      "used_in_templates": [
+        "62"
+      ]
+    },
+    {
+      "id": 2214,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDRWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--482bb4e039fccfba189d34383824c584afe6443c/%E8%B6%B3%EF%BD%AE%EF%BD%A9%2026.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDRWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--482bb4e039fccfba189d34383824c584afe6443c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/%E8%B6%B3%EF%BD%AE%EF%BD%A9%2026.png",
+      "blurhash": "L58gy-?b_3xu~qD%-;j[xuIU4n00",
+      "position": -6092,
+      "created_at": "2022-02-12T02:56:04.325Z",
+      "updated_at": "2026-05-25T04:52:00.406Z",
+      "used_in_templates": [
+        "116",
+        "37",
+        "52",
+        "79"
+      ]
+    },
+    {
+      "id": 2215,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDhWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cc204cabb12095e38db58e9362d1e3271fb205dd/%E8%B6%B3%EF%BD%AE%EF%BD%A9%2027.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDhWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cc204cabb12095e38db58e9362d1e3271fb205dd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/%E8%B6%B3%EF%BD%AE%EF%BD%A9%2027.png",
+      "blurhash": "L79H2_%MRjIU~qIUxut7-;fQIUIU",
+      "position": -3399,
+      "created_at": "2022-02-12T02:56:04.339Z",
+      "updated_at": "2026-05-23T17:53:48.481Z",
+      "used_in_templates": [
+        "18"
+      ]
+    },
+    {
+      "id": 2228,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXdWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--361b576c533766213a3bdd53f488f9e126cc3095/%E8%B6%B3%EF%BD%AE%EF%BD%A9%2040.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXdWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--361b576c533766213a3bdd53f488f9e126cc3095/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/%E8%B6%B3%EF%BD%AE%EF%BD%A9%2040.png",
+      "blurhash": "L39H2_RjxuD%00D%D%9FIURjD%-;",
+      "position": -11220,
+      "created_at": "2022-02-12T02:56:04.485Z",
+      "updated_at": "2026-05-24T05:04:53.570Z",
+      "used_in_templates": [
+        "112"
+      ]
+    },
+    {
+      "id": 2440,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGNXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--22b7b050d727a1889063f74439cb4ce017d1ad61/1%20(2).png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGNXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--22b7b050d727a1889063f74439cb4ce017d1ad61/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/1%20(2).png",
+      "blurhash": "LnJ8V503xrR*?GM}ayj@j?oeWBoe",
+      "position": -1124,
+      "created_at": "2022-02-23T21:31:38.823Z",
+      "updated_at": "2026-05-25T22:12:11.537Z",
+      "used_in_templates": [
+        "141",
+        "67"
+      ]
+    },
+    {
+      "id": 2524,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVFZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--82a2e32cf9441f9bf27dff4e66a042144f5844e3/Dark%20Mode=True,%20Nested%20Content=Switch%201.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVFZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--82a2e32cf9441f9bf27dff4e66a042144f5844e3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Dark%20Mode=True,%20Nested%20Content=Switch%201.png",
+      "blurhash": "",
+      "position": -36,
+      "created_at": "2022-10-29T18:42:56.210Z",
+      "updated_at": "2026-05-23T10:22:26.062Z",
+      "used_in_templates": [
+        "113"
+      ]
+    },
+    {
+      "id": 2530,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdW9ZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa1836cea52c8dfd040cd7ab41c90b3e575ebdc4/Group%205%201.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdW9ZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa1836cea52c8dfd040cd7ab41c90b3e575ebdc4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Group%205%201.png",
+      "blurhash": "LKB:vzt74nay-;t7t7ay~qt7M{ay",
+      "position": -1350,
+      "created_at": "2022-10-29T18:42:56.306Z",
+      "updated_at": "2026-04-19T05:22:35.609Z",
+      "used_in_templates": [
+        "42"
+      ]
+    },
+    {
+      "id": 2547,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnNZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d2c2b58f3ed9553866d4bfbf6140b1303ea05c22/Group%205%20(4)%201.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnNZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d2c2b58f3ed9553866d4bfbf6140b1303ea05c22/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Group%205%20(4)%201.png",
+      "blurhash": "L@N$D_j[J6f+}GfkWVfk9[fQoff6",
+      "position": -1517,
+      "created_at": "2022-10-30T17:57:29.306Z",
+      "updated_at": "2026-05-10T15:13:45.215Z",
+      "used_in_templates": [
+        "50"
+      ]
+    },
+    {
+      "id": 2582,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1laIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e689ce1f121cbcf9e36789d614b6c26bb55a3449/Group%20(17)%201.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1laIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e689ce1f121cbcf9e36789d614b6c26bb55a3449/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Group%20(17)%201.png",
+      "blurhash": "LsOgKNj[ayj[%MfQfQfQ00j[ayfQ",
+      "position": -42,
+      "created_at": "2022-11-04T15:08:29.231Z",
+      "updated_at": "2026-05-06T08:35:30.906Z",
+      "used_in_templates": [
+        "104"
+      ]
+    },
+    {
+      "id": 2590,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--98185019b5cfac1bba7cf1fc79872f89f8e77385/Group%20(25)%201.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--98185019b5cfac1bba7cf1fc79872f89f8e77385/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Group%20(25)%201.png",
+      "blurhash": "L%J8V0j[M{fQD%fQayay00fQxuay",
+      "position": -62,
+      "created_at": "2022-11-04T15:08:29.334Z",
+      "updated_at": "2026-02-09T18:28:04.632Z",
+      "used_in_templates": [
+        "36"
+      ]
+    },
+    {
+      "id": 2617,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBck1aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f63530140468f2cdeda2a93807d6e50a0636840c/Group-2.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBck1aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f63530140468f2cdeda2a93807d6e50a0636840c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Group-2.png",
+      "blurhash": "LXFOcY;3}[#nj[jtj[jt.8pI9ZtR",
+      "position": -84,
+      "created_at": "2022-11-05T00:29:05.431Z",
+      "updated_at": "2026-04-07T06:46:40.857Z",
+      "used_in_templates": [
+        "106"
+      ]
+    },
+    {
+      "id": 2645,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDhvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1d3ec09453585ce8793090ce57f861c0cea2df58/4.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDhvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1d3ec09453585ce8793090ce57f861c0cea2df58/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/4.png",
+      "blurhash": "L768EXj[~qj[j[fQfQfQ?bfQoffQ",
+      "position": -76,
+      "created_at": "2022-11-05T05:13:14.728Z",
+      "updated_at": "2026-03-19T14:20:04.005Z",
+      "used_in_templates": [
+        "53"
+      ]
+    },
+    {
+      "id": 2667,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUlvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e36512c17bb9c1dab1ae98648f16fe7552ec882a/7.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUlvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e36512c17bb9c1dab1ae98648f16fe7552ec882a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/7.png",
+      "blurhash": "L34xlDfQ~qayfQfQfQfQ?bfQM{fQ",
+      "position": -182,
+      "created_at": "2022-11-05T05:13:15.191Z",
+      "updated_at": "2026-04-24T15:12:31.896Z",
+      "used_in_templates": [
+        "50",
+        "62"
+      ]
+    },
+    {
+      "id": 2670,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8081caa2772e46d7d605181923c9d8a92eded88a/Ellipse%201.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8081caa2772e46d7d605181923c9d8a92eded88a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Ellipse%201.png",
+      "blurhash": "LkQT4Mj[00j[j[fQfQfQ00fQ9Fay",
+      "position": -360,
+      "created_at": "2022-11-09T21:33:51.775Z",
+      "updated_at": "2026-05-23T00:49:33.833Z",
+      "used_in_templates": [
+        "138"
+      ]
+    },
+    {
+      "id": 2748,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmdhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--288e0eb192d6f3f0dcf6ea0ee802db0a318aac65/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%2012.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmdhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--288e0eb192d6f3f0dcf6ea0ee802db0a318aac65/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%2012.png",
+      "blurhash": "LWAJ~AfQfQfQj[fQfQfQ00fQfQfQ",
+      "position": -1065,
+      "created_at": "2022-11-11T03:12:31.192Z",
+      "updated_at": "2026-05-25T07:23:26.489Z",
+      "used_in_templates": [
+        "114",
+        "122",
+        "123",
+        "124",
+        "126",
+        "135",
+        "139",
+        "47",
+        "65"
+      ]
+    },
+    {
+      "id": 2749,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmthIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--763c16ca24463aff9572fa8892d4168b0ce092b2/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%2013.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmthIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--763c16ca24463aff9572fa8892d4168b0ce092b2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%2013.png",
+      "blurhash": "LsDS:tfQfQfQj[fQfQfQ00fQfQfQ",
+      "position": -512,
+      "created_at": "2022-11-11T03:12:31.202Z",
+      "updated_at": "2026-05-24T17:36:38.617Z",
+      "used_in_templates": [
+        "125",
+        "26"
+      ]
+    },
+    {
+      "id": 2753,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--60ec0a5484dd1df38e66c5fb8ebf131225994c28/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%2017.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--60ec0a5484dd1df38e66c5fb8ebf131225994c28/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%2017.png",
+      "blurhash": "LWAd7ffQxufQj[fQfQfQ00fQRjfQ",
+      "position": -893,
+      "created_at": "2022-11-11T03:12:31.249Z",
+      "updated_at": "2026-05-25T11:44:53.287Z",
+      "used_in_templates": [
+        "103",
+        "34",
+        "67",
+        "69"
+      ]
+    },
+    {
+      "id": 2756,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0FhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f2780ebd16602606e1632ca41db97c3719a3f019/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%2020.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0FhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f2780ebd16602606e1632ca41db97c3719a3f019/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%2020.png",
+      "blurhash": "",
+      "position": -75,
+      "created_at": "2022-11-11T03:12:31.280Z",
+      "updated_at": "2026-05-22T09:07:36.981Z",
+      "used_in_templates": [
+        "25"
+      ]
+    },
+    {
+      "id": 2850,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWNhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ae39b9ebe42321761e3ee4558555bac3ab4f00c4/F%20(40).png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWNhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ae39b9ebe42321761e3ee4558555bac3ab4f00c4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/F%20(40).png",
+      "blurhash": "LIDJO}xu~q-;Rjt7WBxuD%ofD%t7",
+      "position": -607,
+      "created_at": "2022-11-16T02:59:02.467Z",
+      "updated_at": "2026-05-23T09:40:04.328Z",
+      "used_in_templates": [
+        "67"
+      ]
+    },
+    {
+      "id": 2871,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjhhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13afc9f98422334e3b1beb396bafb76cc4572b3c/F%20(21).png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjhhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13afc9f98422334e3b1beb396bafb76cc4572b3c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/F%20(21).png",
+      "blurhash": "L00+:+9F^+9Fayj[ayj[RjxaRjxa",
+      "position": -236,
+      "created_at": "2022-11-16T03:07:29.655Z",
+      "updated_at": "2026-05-23T10:25:11.196Z",
+      "used_in_templates": [
+        "51"
+      ]
+    },
+    {
+      "id": 2966,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkliIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--51e8957f07cc162bbd86be186edd89ec8ec33856/12.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkliIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--51e8957f07cc162bbd86be186edd89ec8ec33856/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/12.png",
+      "blurhash": "L00000fQfQfQfQfQfQfQfQfQfQfQ",
+      "position": -338,
+      "created_at": "2022-11-30T16:15:26.907Z",
+      "updated_at": "2026-05-08T21:56:06.911Z",
+      "used_in_templates": [
+        "138",
+        "139"
+      ]
+    },
+    {
+      "id": 3023,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazhjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd0ec82d87e250b1857ecda0d2196feece50a53b/Rectangle%202.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazhjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd0ec82d87e250b1857ecda0d2196feece50a53b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Rectangle%202.png",
+      "blurhash": "L01VoKj[ayj[~qj[ayj[~qj[ayj[",
+      "position": -4296,
+      "created_at": "2022-11-30T16:46:00.448Z",
+      "updated_at": "2026-05-25T17:35:46.286Z",
+      "used_in_templates": [
+        "107",
+        "25",
+        "49",
+        "79",
+        "90",
+        "95",
+        "96",
+        "97",
+        "99"
+      ]
+    },
+    {
+      "id": 3026,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0VjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47f2e602008322bea0dd7e795d02a793808f80b3/Rectangle%205.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0VjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47f2e602008322bea0dd7e795d02a793808f80b3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Rectangle%205.png",
+      "blurhash": "L01VoKj[%Mayt7ofWBj[%Mj[D%ay",
+      "position": -2706,
+      "created_at": "2022-11-30T16:46:00.496Z",
+      "updated_at": "2026-05-23T23:19:40.709Z",
+      "used_in_templates": [
+        "94"
+      ]
+    },
+    {
+      "id": 3027,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEFjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--11e439d578eac03e4dc9a5eecbed3038d3b73f95/Rectangle%206.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEFjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--11e439d578eac03e4dc9a5eecbed3038d3b73f95/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Rectangle%206.png",
+      "blurhash": "L00]XffQayfQ_3fQayfQ_3fQayfQ",
+      "position": -4177,
+      "created_at": "2022-11-30T16:47:35.992Z",
+      "updated_at": "2026-05-25T19:33:19.301Z",
+      "used_in_templates": [
+        "113",
+        "142",
+        "33",
+        "65",
+        "68",
+        "74",
+        "85",
+        "86",
+        "87",
+        "88",
+        "89"
+      ]
+    },
+    {
+      "id": 3030,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0ljIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4c4d6b17ae1193c46c9f29abc6cae6ec2247864/Rectangle%2010.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0ljIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4c4d6b17ae1193c46c9f29abc6cae6ec2247864/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Rectangle%2010.png",
+      "blurhash": "L02Fc4j[?bayt7ofayof-;j[4nay",
+      "position": -1444,
+      "created_at": "2022-12-21T02:22:40.293Z",
+      "updated_at": "2026-05-25T16:58:52.027Z",
+      "used_in_templates": [
+        "140"
+      ]
+    },
+    {
+      "id": 3032,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1FjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4ef1494cd40ff22c853c55eb217e20e2bf6e10f0/Rectangle%2018.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1FjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4ef1494cd40ff22c853c55eb217e20e2bf6e10f0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Rectangle%2018.png",
+      "blurhash": "L02P0zay?bfQoffQayfQ?bj[4nj[",
+      "position": -732,
+      "created_at": "2022-12-21T02:22:40.321Z",
+      "updated_at": "2026-05-22T13:54:22.538Z",
+      "used_in_templates": [
+        "138",
+        "147"
+      ]
+    },
+    {
+      "id": 3033,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29jIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--21ece1d39c5a6908762493e9ca3ce78183739435/Rectangle%209.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29jIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--21ece1d39c5a6908762493e9ca3ce78183739435/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Rectangle%209.png",
+      "blurhash": "L01fC^fQ%Mayj[ayayay%Mj[D%fQ",
+      "position": -5469,
+      "created_at": "2022-12-21T02:24:35.709Z",
+      "updated_at": "2026-05-25T17:45:11.172Z",
+      "used_in_templates": [
+        "84",
+        "91",
+        "93"
+      ]
+    },
+    {
+      "id": 3034,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--78fa46d52f3d2f9a24f6332140c32a7b39bbb481/Rectangle%2012.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--78fa46d52f3d2f9a24f6332140c32a7b39bbb481/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Rectangle%2012.png",
+      "blurhash": "L02Fc4j[?bayj[fQayay?bj[4nfQ",
+      "position": -3081,
+      "created_at": "2022-12-21T02:24:35.725Z",
+      "updated_at": "2026-05-26T00:46:15.943Z",
+      "used_in_templates": [
+        "134",
+        "135",
+        "136",
+        "139",
+        "143",
+        "149",
+        "98"
+      ]
+    },
+    {
+      "id": 3211,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakVpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9336083685f446ed735e58e9ff4dcd9056aa214c/dot%203.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakVpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9336083685f446ed735e58e9ff4dcd9056aa214c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/dot%203.png",
+      "blurhash": "",
+      "position": -11,
+      "created_at": "2023-05-04T15:43:23.129Z",
+      "updated_at": "2025-09-07T16:42:26.959Z",
+      "used_in_templates": [
+        "126"
+      ]
+    },
+    {
+      "id": 4074,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmtuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5eac6bb5cec96c111292cec5647982b13644f6e/31.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmtuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5eac6bb5cec96c111292cec5647982b13644f6e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/31.png",
+      "blurhash": "L46a-cRjj[4nM{IU%MIU00%MIU-;",
+      "position": -925,
+      "created_at": "2023-08-22T18:05:24.103Z",
+      "updated_at": "2026-05-18T23:27:27.092Z",
+      "used_in_templates": [
+        "102"
+      ]
+    },
+    {
+      "id": 4257,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0FzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9c094b35ff8f3a1e6e5e6f7bcbc8c8564b5805cd/3.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0FzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9c094b35ff8f3a1e6e5e6f7bcbc8c8564b5805cd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/3.png",
+      "blurhash": "LUE3C*t7ofof~qoft7ayD%WBfQfQ",
+      "position": -23,
+      "created_at": "2024-10-02T00:51:50.454Z",
+      "updated_at": "2025-12-27T11:13:37.929Z",
+      "used_in_templates": [
+        "64"
+      ]
+    },
+    {
+      "id": 4259,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6947fe56e69b8908976114a11042cf1ac705193e/5.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6947fe56e69b8908976114a11042cf1ac705193e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/5.png",
+      "blurhash": "LMDuf6nO5kM{1zbvv#e.Hrn%XTkC",
+      "position": -158,
+      "created_at": "2024-10-02T00:51:50.519Z",
+      "updated_at": "2026-04-16T13:57:43.531Z",
+      "used_in_templates": [
+        "63"
+      ]
+    },
+    {
+      "id": 4267,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ29zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4971395c91011f2908979b4911908605b6138a2a/13.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ29zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4971395c91011f2908979b4911908605b6138a2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/13.png",
+      "blurhash": "L88NhEoft7j[~Xofofj[00WBWBay",
+      "position": -17,
+      "created_at": "2024-10-02T00:51:50.729Z",
+      "updated_at": "2026-01-24T17:01:15.319Z",
+      "used_in_templates": [
+        "64"
+      ]
+    },
+    {
+      "id": 4269,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3dzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--272fe20b1ef2a4d7546433c9e9f806e5b5ae1067/15.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3dzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--272fe20b1ef2a4d7546433c9e9f806e5b5ae1067/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/15.png",
+      "blurhash": "L24_tiD%00-;9FWB?bt7-;WB9FWB",
+      "position": -46,
+      "created_at": "2024-10-02T00:51:50.787Z",
+      "updated_at": "2025-12-24T14:44:37.256Z",
+      "used_in_templates": [
+        "61"
+      ]
+    },
+    {
+      "id": 4292,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6317576998d1164ecca9cac8d102e25759884eb5/sticker%20(8).png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6317576998d1164ecca9cac8d102e25759884eb5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/sticker%20(8).png",
+      "blurhash": "LFDb~GayKlt7L}WB5SWV0Kt7M|WB",
+      "position": -36,
+      "created_at": "2024-10-02T00:57:38.009Z",
+      "updated_at": "2026-04-05T15:04:17.260Z",
+      "used_in_templates": [
+        "75"
+      ]
+    },
+    {
+      "id": 4297,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc290IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6b4e9822fa5d0b74c691c138e0248d621ae8e892/sticker%20(13).png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc290IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6b4e9822fa5d0b74c691c138e0248d621ae8e892/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/sticker%20(13).png",
+      "blurhash": "LoHC1RfQ?bay9Fayofj[~qj[Rjay",
+      "position": -37,
+      "created_at": "2024-10-02T00:57:38.317Z",
+      "updated_at": "2025-10-24T03:29:10.948Z",
+      "used_in_templates": [
+        "77"
+      ]
+    },
+    {
+      "id": 4305,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBak1zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f49f1e94a6facff4781579fffe5ce21412cd5e7f/sticker%20(6).png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBak1zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f49f1e94a6facff4781579fffe5ce21412cd5e7f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/sticker%20(6).png",
+      "blurhash": "LrNAbgxCIUbc~qoeaykC4oX9R*jF",
+      "position": -18,
+      "created_at": "2024-10-02T00:57:38.877Z",
+      "updated_at": "2025-11-29T16:25:07.155Z",
+      "used_in_templates": [
+        "76"
+      ]
+    },
+    {
+      "id": 4308,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBallzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8798935e5cf4c270ca0415bc2c11704aefb41b9e/sticker%20(9).png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBallzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8798935e5cf4c270ca0415bc2c11704aefb41b9e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/sticker%20(9).png",
+      "blurhash": "LyJa_:f,Rit79FRjj]of00adozj[",
+      "position": -14,
+      "created_at": "2024-10-02T00:57:39.078Z",
+      "updated_at": "2026-04-18T16:33:00.203Z",
+      "used_in_templates": [
+        "74"
+      ]
+    },
+    {
+      "id": 4315,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0FzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5dd07d95e490d3b37bb73566b137b70bcd8de3fd/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%2011%201.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0FzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5dd07d95e490d3b37bb73566b137b70bcd8de3fd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%2011%201.png",
+      "blurhash": "LGAJ~Axu00Rj~qt7M{WB?bofM{j[",
+      "position": -88,
+      "created_at": "2024-10-04T22:27:55.143Z",
+      "updated_at": "2026-05-10T14:06:53.265Z",
+      "used_in_templates": [
+        "130",
+        "71"
+      ]
+    },
+    {
+      "id": 4349,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTBzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--00bd6fd21b52b6552c9c9cb1cb7b2ee37789ca2d/Group.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTBzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--00bd6fd21b52b6552c9c9cb1cb7b2ee37789ca2d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Group.png",
+      "blurhash": "L44ec*j[~qj[j[fQj[fQ~qj[~qj[",
+      "position": -212,
+      "created_at": "2024-10-06T22:53:34.530Z",
+      "updated_at": "2026-05-23T10:33:14.315Z",
+      "used_in_templates": [
+        "142"
+      ]
+    },
+    {
+      "id": 4351,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--977a2835d728a988c24caf736d8db32929090549/MainPhotoView.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--977a2835d728a988c24caf736d8db32929090549/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/MainPhotoView.png",
+      "blurhash": "L24LUYj[00a|00j[_3ay_3j[9Fay",
+      "position": -1199,
+      "created_at": "2024-10-06T22:53:34.558Z",
+      "updated_at": "2026-05-25T02:18:36.286Z",
+      "used_in_templates": [
+        "142"
+      ]
+    },
+    {
+      "id": 4422,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjhzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--44c6ae37c28219c5bcdcb5e344a464e47fd90ad7/IMG_1548.PNG",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjhzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--44c6ae37c28219c5bcdcb5e344a464e47fd90ad7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/IMG_1548.PNG",
+      "blurhash": "LiH.j4jY00NGs,ayM{Rj4Tj]oft7",
+      "position": -65,
+      "created_at": "2024-10-10T21:16:17.252Z",
+      "updated_at": "2026-03-08T13:09:52.849Z",
+      "used_in_templates": [
+        "70"
+      ]
+    },
+    {
+      "id": 4426,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc01zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--034cb15accc376248b4d69752266531dca6b5fa1/IMG_1561.PNG",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc01zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--034cb15accc376248b4d69752266531dca6b5fa1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/IMG_1561.PNG",
+      "blurhash": "L009jwWBWUaxWBofayj[WBfQj[fR",
+      "position": -56,
+      "created_at": "2024-10-10T21:16:17.482Z",
+      "updated_at": "2025-12-25T06:19:12.382Z",
+      "used_in_templates": [
+        "73"
+      ]
+    },
+    {
+      "id": 4433,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc29zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1aece7396e24ab4657f34c70d27c0b26a6f90170/IMG_1600.PNG",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc29zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1aece7396e24ab4657f34c70d27c0b26a6f90170/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/IMG_1600.PNG",
+      "blurhash": "LzJaZas+0LS%xYkDIVV@EOR+nNn$",
+      "position": -25,
+      "created_at": "2024-10-10T21:16:17.847Z",
+      "updated_at": "2025-10-22T13:28:59.003Z",
+      "used_in_templates": [
+        "77"
+      ]
+    },
+    {
+      "id": 4434,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3NzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bb16bdefd58975257b495391008e723baac23b02/IMG_1603.PNG",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3NzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bb16bdefd58975257b495391008e723baac23b02/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/IMG_1603.PNG",
+      "blurhash": "LDDGr~ofJ8sn}YkBNbn%E#bHR+WV",
+      "position": -69,
+      "created_at": "2024-10-10T21:16:17.920Z",
+      "updated_at": "2026-01-11T12:36:31.750Z",
+      "used_in_templates": [
+        "72"
+      ]
+    },
+    {
+      "id": 4437,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczRzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ddaf55e24ede4ad27a9d463e5e69fd796ec285f6/IMG_1606.PNG",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczRzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ddaf55e24ede4ad27a9d463e5e69fd796ec285f6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/IMG_1606.PNG",
+      "blurhash": "LqJiwbxsE2jGSdbGWXja0gRkXSWW",
+      "position": -27,
+      "created_at": "2024-10-10T21:16:18.141Z",
+      "updated_at": "2025-10-27T14:39:36.671Z",
+      "used_in_templates": [
+        "71"
+      ]
+    },
+    {
+      "id": 4441,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdElzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2989b8a3c7909f94799d133b33a4e732656df44a/IMG_1612.PNG",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdElzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2989b8a3c7909f94799d133b33a4e732656df44a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/IMG_1612.PNG",
+      "blurhash": "LNEU*@~U5SE3EjS4niRj0gD+sloe",
+      "position": -18,
+      "created_at": "2024-10-10T21:16:18.401Z",
+      "updated_at": "2025-11-06T16:28:05.610Z",
+      "used_in_templates": [
+        "73"
+      ]
+    },
+    {
+      "id": 4833,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXd2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b3333d9ba2fbbc1f31044353af25945138b44bcb/switch%203.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXd2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b3333d9ba2fbbc1f31044353af25945138b44bcb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/switch%203.png",
+      "blurhash": "LeFHMn0TI8~6j[a|fQfQ4o-kr-E6",
+      "position": -20,
+      "created_at": "2025-07-03T13:42:43.409Z",
+      "updated_at": "2026-05-05T00:36:01.831Z",
+      "used_in_templates": [
+        "147"
+      ]
+    },
+    {
+      "id": 5163,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDB4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--625c2898b70e5af291daefd70273165147a63cf8/pp-11.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDB4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--625c2898b70e5af291daefd70273165147a63cf8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/pp-11.png",
+      "blurhash": "LTJQQ8xu0fM{^zayRoofE2WBIpoL",
+      "position": -7,
+      "created_at": "2025-08-14T04:51:05.179Z",
+      "updated_at": "2026-03-24T13:53:51.718Z",
+      "used_in_templates": [
+        "140"
+      ]
+    },
+    {
+      "id": 6954,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWM0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e47159693aa39ec15aec1b197e01a02c15e2d0b8/Group%20(3).png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWM0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e47159693aa39ec15aec1b197e01a02c15e2d0b8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Group%20(3).png",
+      "blurhash": "L9AmrFt7t7~qD%D%RjM{ofxu00IU",
+      "position": -2,
+      "created_at": "2025-09-08T01:26:20.176Z",
+      "updated_at": "2025-09-13T14:17:02.762Z",
+      "used_in_templates": [
+        "125"
+      ]
+    },
+    {
+      "id": 6955,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWc0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ff4feaea307e19fc2d83c3d5ea0a0bb3cd18ba5/Group%20(2).png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWc0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ff4feaea307e19fc2d83c3d5ea0a0bb3cd18ba5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Group%20(2).png",
+      "blurhash": "LFA,zkM{00ofof9Fxu_3D%t7xut7",
+      "position": -6,
+      "created_at": "2025-09-08T01:26:20.200Z",
+      "updated_at": "2026-05-21T13:35:58.565Z",
+      "used_in_templates": [
+        "125"
+      ]
+    },
+    {
+      "id": 7305,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3c2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eebe3db495123a9b4d7cc1255da98d67284b5829/Group%208.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3c2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eebe3db495123a9b4d7cc1255da98d67284b5829/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Group%208.png",
+      "blurhash": "LRECwdWB00j[RjWBofWB00j[-;j[",
+      "position": -152,
+      "created_at": "2025-09-09T14:58:56.085Z",
+      "updated_at": "2026-05-24T21:04:27.829Z",
+      "used_in_templates": [
+        "141"
+      ]
+    },
+    {
+      "id": 8039,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEU5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--75f90ec07822562126ab2ce3008e728c29654cd3/2Asset%201@8x.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEU5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--75f90ec07822562126ab2ce3008e728c29654cd3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/2Asset%201@8x.png",
+      "blurhash": "LTCURI}d+6oMkBj[juay4-EdQ:WU",
+      "position": -64,
+      "created_at": "2025-11-27T02:57:30.392Z",
+      "updated_at": "2026-05-23T10:32:05.714Z",
+      "used_in_templates": [
+        "132"
+      ]
+    },
+    {
+      "id": 8124,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDQ5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c33a23a6e074506125175adf126ea9d6fd713456/Group%203907.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDQ5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c33a23a6e074506125175adf126ea9d6fd713456/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Group%203907.png",
+      "blurhash": "LEP?:i00D%WB-;ofj[M{4nD%D%ay",
+      "position": -21,
+      "created_at": "2025-12-01T02:50:41.671Z",
+      "updated_at": "2026-05-09T18:44:12.881Z",
+      "used_in_templates": [
+        "145"
+      ]
+    },
+    {
+      "id": 8125,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDg5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c440de71728c3169cef5be2dc9010cb31c7791a1/Group%203908.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDg5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c440de71728c3169cef5be2dc9010cb31c7791a1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Group%203908.png",
+      "blurhash": "L6MHMsM{t7xu~q~qIUWB00IUofWB",
+      "position": -14,
+      "created_at": "2025-12-01T02:50:41.693Z",
+      "updated_at": "2026-05-08T05:59:34.073Z",
+      "used_in_templates": [
+        "143"
+      ]
+    },
+    {
+      "id": 8126,
+      "image_url": "https://fontsv2.reelix.app/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUE5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c9b663d61b121c9ebc43a03cc57bb8bd5b5a5b45/Group%203909.png",
+      "image_thumbnail_url": "https://fontsv2.reelix.app/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUE5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c9b663d61b121c9ebc43a03cc57bb8bd5b5a5b45/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTVRreVBuZ3hPVEkrQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ed827330bc973d2dbfa88b1de5c89a910ae97eb5/Group%203909.png",
+      "blurhash": "LnOgKOM|j[of~qayWBayRjxuofay",
+      "position": -23,
+      "created_at": "2025-12-01T02:50:41.717Z",
+      "updated_at": "2026-05-11T11:27:28.771Z",
+      "used_in_templates": [
+        "144"
+      ]
+    }
+  ],
+  "template_to_stickers": {
+    "102": [
+      "4074"
+    ],
+    "103": [
+      "2753"
+    ],
+    "104": [
+      "2582"
+    ],
+    "106": [
+      "2617"
+    ],
+    "107": [
+      "3023"
+    ],
+    "112": [
+      "2228"
+    ],
+    "113": [
+      "2524",
+      "3027"
+    ],
+    "114": [
+      "2748"
+    ],
+    "116": [
+      "2214"
+    ],
+    "122": [
+      "2748"
+    ],
+    "123": [
+      "2748"
+    ],
+    "124": [
+      "2748"
+    ],
+    "125": [
+      "2749",
+      "6954",
+      "6955"
+    ],
+    "126": [
+      "2748",
+      "3211"
+    ],
+    "130": [
+      "4315"
+    ],
+    "132": [
+      "8039"
+    ],
+    "134": [
+      "3034"
+    ],
+    "135": [
+      "2748",
+      "3034"
+    ],
+    "136": [
+      "3034"
+    ],
+    "138": [
+      "2670",
+      "2966",
+      "3032"
+    ],
+    "139": [
+      "2748",
+      "2966",
+      "3034"
+    ],
+    "140": [
+      "3030",
+      "5163"
+    ],
+    "141": [
+      "2440",
+      "7305"
+    ],
+    "142": [
+      "3027",
+      "4349",
+      "4351"
+    ],
+    "143": [
+      "3034",
+      "8125"
+    ],
+    "144": [
+      "8126"
+    ],
+    "145": [
+      "8124"
+    ],
+    "147": [
+      "3032",
+      "4833"
+    ],
+    "149": [
+      "3034"
+    ],
+    "18": [
+      "2215"
+    ],
+    "25": [
+      "2756",
+      "3023"
+    ],
+    "26": [
+      "2749"
+    ],
+    "33": [
+      "3027"
+    ],
+    "34": [
+      "2753"
+    ],
+    "36": [
+      "2590"
+    ],
+    "37": [
+      "2214"
+    ],
+    "42": [
+      "2530"
+    ],
+    "46": [
+      "2154"
+    ],
+    "47": [
+      "2748"
+    ],
+    "49": [
+      "3023"
+    ],
+    "50": [
+      "2547",
+      "2667"
+    ],
+    "51": [
+      "2871"
+    ],
+    "52": [
+      "2214"
+    ],
+    "53": [
+      "2645"
+    ],
+    "54": [
+      "933",
+      "951"
+    ],
+    "61": [
+      "4269",
+      "943"
+    ],
+    "62": [
+      "2212",
+      "2667"
+    ],
+    "63": [
+      "4259"
+    ],
+    "64": [
+      "4257",
+      "4267"
+    ],
+    "65": [
+      "2748",
+      "3027"
+    ],
+    "67": [
+      "2440",
+      "2753",
+      "2850"
+    ],
+    "68": [
+      "3027"
+    ],
+    "69": [
+      "2753"
+    ],
+    "70": [
+      "4422"
+    ],
+    "71": [
+      "4315",
+      "4437"
+    ],
+    "72": [
+      "4434"
+    ],
+    "73": [
+      "4426",
+      "4441"
+    ],
+    "74": [
+      "3027",
+      "4308"
+    ],
+    "75": [
+      "4292"
+    ],
+    "76": [
+      "4305"
+    ],
+    "77": [
+      "4297",
+      "4433"
+    ],
+    "79": [
+      "2214",
+      "3023"
+    ],
+    "84": [
+      "3033"
+    ],
+    "85": [
+      "3027"
+    ],
+    "86": [
+      "3027"
+    ],
+    "87": [
+      "3027"
+    ],
+    "88": [
+      "3027"
+    ],
+    "89": [
+      "3027"
+    ],
+    "90": [
+      "3023"
+    ],
+    "91": [
+      "3033"
+    ],
+    "93": [
+      "3033"
+    ],
+    "94": [
+      "3026"
+    ],
+    "95": [
+      "3023"
+    ],
+    "96": [
+      "3023"
+    ],
+    "97": [
+      "3023"
+    ],
+    "98": [
+      "3034"
+    ],
+    "99": [
+      "3023"
+    ]
+  }
+}
